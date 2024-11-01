@@ -1,2 +1,2 @@
-./ore-hq-client --url 172.16.5.200:3000 --use-http
+./ore-hq-client --url 47.109.201.231:3000 --use-http
 
